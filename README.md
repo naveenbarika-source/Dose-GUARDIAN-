@@ -42,7 +42,7 @@ This project is fully **simulated in Proteus**, making it ideal for learning and
 ## 🖼️ Proteus Simulation Screens & Explanation
 
 ### 🔹 1️⃣ LCD Interface & Pin Test
-
+/FAILED_MED.png
 - Displays test characters on LCD
 - Verifies D0–D7 data line connections
 - Confirms LCD works in 8-bit mode ✅
