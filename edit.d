@@ -1,0 +1,11 @@
+.\edit.o: D:\edit.c
+.\edit.o: C:\Keil\ARM\Inc\Philips\LPC21xx.h
+.\edit.o: D:\kpm.h
+.\edit.o: D:\lcd.h
+.\edit.o: D:\types.h
+.\edit.o: D:\defines.h
+.\edit.o: D:\rtc.h
+.\edit.o: D:\types.h
+.\edit.o: D:\delay.h
+.\edit.o: D:\types.h
+.\edit.o: D:\lcd_defines.h
