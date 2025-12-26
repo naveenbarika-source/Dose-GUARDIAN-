@@ -1,4 +1,4 @@
-# 💊 Smart Medicine Reminder System using LPC2124 (Proteus)
+# 💊 Smart Medicine Reminder System using LPC2148 (Proteus)
 
 ## 📌 Project Description
 The **Smart Medicine Reminder System** is an embedded system project designed using the **LPC2124 ARM7 microcontroller**.  
